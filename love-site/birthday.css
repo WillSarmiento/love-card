@@ -1,0 +1,146 @@
+body{
+    text-align: center;
+    font-family: 'Alex Brush', cursive; 
+    background:linear-gradient(#9D0C0C, rgb(230, 104, 255)) ;
+    color: white;
+    
+}
+
+#header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+#juntos-img{
+    width: 200px;
+    border-radius: 50%;
+    border: 5px solid #917466;
+
+}
+
+h1{
+    font-size: 50px;
+    text-shadow: 0 0 3px black;     
+}
+
+#numero-de-fecha{
+    font-size: 30px;
+    background:  #917466 ;
+    padding: 5px 10px 2px 10px ;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+#meses{
+    font-size: 30px;
+    background:  #917466 ;
+    padding: 5px 10px 2px 10px ;
+    border-radius: 5px;
+    margin-top: -10px;
+}
+
+h1,h2,h3,h4,h5,h6{
+    text-shadow: 0 0 3px black;
+}
+
+.gift-section1{
+    margin-top: 50px;
+}
+
+
+.gift-cover{
+    background-image: url("/images/gif\ cover.jpg") ;
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 0px auto
+}
+
+.gift-cover:hover{
+    background-image: url("/images/amor3.jpg");
+    background-size: cover;
+    
+}
+
+.gift-text{
+    font-size: 30px;
+}
+
+.gift-instruction{
+    font-size: 25px;
+    margin-top: -20px;
+}
+
+.gift-section2{
+    margin-top: 70px;
+}
+
+
+.gift-cover2{
+    background-image: url("/images/gif\ cover.jpg") ;
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 0px auto
+}
+
+.gift-cover2:hover{
+    background-image: url("/images/amor2.jpg");
+    background-size: cover;
+    
+}
+
+.gift-text2{
+    font-size: 30px;
+    margin-bottom: -20px;
+}
+
+.palabras2{
+    margin-top: -10px;
+}
+
+.gift-section3{
+    margin-top: 70px;
+}
+
+
+.gift-cover3{
+    background-image: url("/images/gif\ cover.jpg") ;
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 0px auto
+}
+
+.gift-cover3:hover{
+    background-image: url("/images/amor1.JPG");
+    background-size: cover;
+    
+}
+
+.gift-text3{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.final{
+    margin-top: 100px;
+    font-size: 40px;
+}    
+
+.final2{
+    margin-top: -8px;
+    font-style: italic;
+}
+
+a{
+    color:rgb(255, 118, 118)
+}
