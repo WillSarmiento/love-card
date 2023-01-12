@@ -51,7 +51,7 @@ h1,h2,h3,h4,h5,h6{
 
 
 .gift-cover{
-    background-image: url("/images/gif\ cover.jpg") ;
+    background-image: url("gif\ cover.jpg") ;
     background-size: cover;
     height: 300px;
     width: 300px;
@@ -61,7 +61,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .gift-cover:hover{
-    background-image: url("/images/amor3.jpg");
+    background-image: url("amor3.jpg");
     background-size: cover;
     
 }
@@ -81,7 +81,7 @@ h1,h2,h3,h4,h5,h6{
 
 
 .gift-cover2{
-    background-image: url("/images/gif\ cover.jpg") ;
+    background-image: url("gif\ cover.jpg") ;
     background-size: cover;
     height: 300px;
     width: 300px;
@@ -91,7 +91,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .gift-cover2:hover{
-    background-image: url("/images/amor2.jpg");
+    background-image: url("amor2.jpg");
     background-size: cover;
     
 }
@@ -111,7 +111,7 @@ h1,h2,h3,h4,h5,h6{
 
 
 .gift-cover3{
-    background-image: url("/images/gif\ cover.jpg") ;
+    background-image: url("gif\ cover.jpg") ;
     background-size: cover;
     height: 300px;
     width: 300px;
@@ -121,7 +121,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .gift-cover3:hover{
-    background-image: url("/images/amor1.JPG");
+    background-image: url("amor1.JPG");
     background-size: cover;
     
 }
